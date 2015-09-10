@@ -2,7 +2,7 @@
 
 // Setup:  screen size. //
 void setup() {
-  size(200, 200);                // Try changing the width & height.
+  size(400, 400);                // Try changing the width & height.
 }
 
 // Next frame:  circle at (x,y). //
